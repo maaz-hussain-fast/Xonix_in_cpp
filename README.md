@@ -1,5 +1,7 @@
 Xonix: A Classic Arcade Remake in C++
+
 --- A Maaz & Hussain Production ---
+
 This project recreates the classic Xonix arcade game, delivering a fast-paced, grid-based experience built entirely in C++ using SFML, without relying on modern OOP constructs. Designed as a final project for Programming Fundamentals, this game integrates progressively challenging mechanics, multiplayer features, and a dynamic scoring system — all while pushing the boundaries of procedural programming.
 
 The catch: No classes, structs, or STL containers like vector or list were allowed! The entire logic is built using arrays, pointers, and functions, showcasing how strong gameplay design is possible with just the basics.
